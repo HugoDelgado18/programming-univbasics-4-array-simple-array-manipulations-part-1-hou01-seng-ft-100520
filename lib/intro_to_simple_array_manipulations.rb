@@ -16,5 +16,5 @@ def using_pop (continents)
 
   puts continents
   return continents
-  
+
 end
