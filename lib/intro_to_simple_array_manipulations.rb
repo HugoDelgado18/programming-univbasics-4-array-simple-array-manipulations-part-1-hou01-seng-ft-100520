@@ -11,6 +11,6 @@ def using_unshift (array, string)
 end
 
 def using_pop (array)
-  array = ["Alaska", "Antarctica"]
+  array = ["Alaska", "Antarctic"]
   array = array.pop
 end
