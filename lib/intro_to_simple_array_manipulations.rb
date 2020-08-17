@@ -15,4 +15,3 @@ def using_pop (continents)
   continents = continents.pop
 end
 
-using_pop
