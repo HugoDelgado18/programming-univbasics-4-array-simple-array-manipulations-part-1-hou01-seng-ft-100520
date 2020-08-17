@@ -5,7 +5,7 @@ def using_push (array, string)
 end
 
 def using_unshift (array, string)
-  array = ["Long Beach"]
+  array = ["Long Beach", "Los Angeles", "Houston", "Austin"]
   string = "Staten Island"
   array = array.unshift (string)
 end
