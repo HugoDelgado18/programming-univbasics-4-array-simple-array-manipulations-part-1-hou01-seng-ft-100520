@@ -7,5 +7,5 @@ end
 def using_unshift (array, string)
   array = []
   string = "hello"
-  array = array.ushift (string)
+  array = array.unshift (string)
 end
