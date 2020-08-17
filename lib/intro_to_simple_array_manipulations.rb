@@ -15,4 +15,5 @@ def using_pop (continents)
   continents = continents.pop
 
   return continents
+  puts continents
 end
